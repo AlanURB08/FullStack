@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.notifi{
+    border-color: green;
+    border-style: solid;
+    background-color: rgb(185, 185, 185);
+    color: green;
+}
+.notifiError{
+    border-style: solid;
+    border-color: red;
+    background-color: rgb(185, 185, 185);
+    color: red;
+}
+
